@@ -1,0 +1,69 @@
+*{
+	margin:0;
+	padding:0;
+}
+.phone{
+	width:320px;
+	height:600px;
+	border:2px #000 solid;
+	margin:30px auto;
+	border-radius:30px;
+	background-image: url(http://image4.cnpp.cn/upload2/news/20120412/161431_89534_url.jpg);
+	background-size:cover; 
+}
+.top{
+	width:240px;
+	height:30px;
+	margin:20px 63px; 
+}
+.screen{
+	width: 300px;
+	height: 440px;
+	background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528203395842&di=c47d61a3d50e74f358e66631c4dce12f&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F018fe95876f0b4a801219c775eb454.png%402o.png);
+	background-size:cover;
+	margin: 10px auto;	
+}
+.home{
+	width: 60px;
+	height:60px;
+	border: 1px solid;
+	border-radius:50%;
+	margin:15px auto 20px;
+	border-color:black;
+}
+.box{
+	width:150px; 
+	height:15px;
+	border:1px solid #000;
+	border-radius:13px;
+	float: left;
+	margin-top:8px;
+	margin-left:5px;
+}
+.circle1{
+	width:8px;
+	height:8px;
+	border-radius:50%;
+	background:black;
+	float: left;
+	margin-top:11px;
+	margin-left:10px; 
+}
+.circle2{
+	width:12px;
+	height:12px;
+	background:pink; 
+	border-radius:50%;
+	float:left;
+	margin-top:9px;
+	margin-left:10px; 
+}
+.smallhome{
+	width: 50px;
+	height:50px;
+	border: 1px solid;
+	border-radius:50%;
+	border-color:black;
+	margin-top:4px;
+	margin-left:4px;
+}
